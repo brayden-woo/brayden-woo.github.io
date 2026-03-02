@@ -1,0 +1,33 @@
+body {background-color: #e9f0cf;}
+
+h1 { color:#063F5B ;
+background-color: #DBC2FF;
+padding: 1.5rem; 
+ text-transform: lowercase;
+font-family: "Great Vibes" ;
+}
+
+h2 {color:#063F5B;
+    background-color: #C2FFFE;
+    margin: 1rem;
+font-family: "Spectral" ;
+}
+
+p { font-family: "Lobster" ;
+    margin: 1rem;
+line-height: 1.5rem; }
+
+img { float: right;
+border: 2px #ffffff solid;
+margin: .65rem;
+max-width: 100px;}
+
+a:link {  color:#8F0000;
+text-decoration: none;}
+
+a:visited { color: blue}
+
+
+a:hover { color: purple}
+
+a:active { color: #6B4600}
