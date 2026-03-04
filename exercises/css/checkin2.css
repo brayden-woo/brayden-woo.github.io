@@ -1,0 +1,27 @@
+img {max-width:100% ;}
+
+body {font-family: "Spectral" ;
+background-color: #FBF5FF;
+color: #0051A8;}
+
+h1 {font-size: 5rem;
+background-color: black;
+color: white;}
+
+
+hr {border: 3px solid goldenrod; }
+
+
+h2 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: black;
+padding:0.5rem ;}
+
+p {line-height: 2rem;
+padding:0.5rem ;}
+
+a:link { color: #AD0000;}
+
+a:hover { color: #156100;}
+
+
+a:visited { color: #9E0081; }
