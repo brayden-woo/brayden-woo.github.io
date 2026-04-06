@@ -1,0 +1,47 @@
+h2
+{text-align: center;
+background-color: aliceblue;
+padding: 12px;
+margin: 0px;}
+
+nav li
+{list-style-type: none;
+background-color: black;
+margin: 1rem;}
+
+nav a
+{text-decoration: none;
+color: lightgray;
+padding: 1.5rem;}
+
+nav a:hover
+{color: palegoldenrod;
+background-color: blue;}
+
+nav ul
+{display:flex;
+justify-content: center;
+background-color: black;
+padding: 25px;
+margin: 0px;
+flex-wrap: wrap;}
+
+body
+{margin: 0%;}
+
+main
+{padding-left: 1rem;}
+
+h1
+{color: olivedrab;}
+
+footer
+{color: white;
+background-color: black;
+text-align: center;
+align-content: center;
+padding: 25px;}
+
+.wrapper
+{display: grid;
+min-height: 100vh;}
