@@ -1,0 +1,37 @@
+.wrapper
+{display: grid;
+grid-template-columns: 1fr 5fr;
+min-height: 100vh;}
+
+header
+{grid-column: 1/2;
+background-color: darkslategray;
+min-height: 100vh;
+color: aquamarine;
+padding-left: 1rem;}
+
+body
+{background-color: #FBF5FF;}
+
+nav
+{line-height: 1rem;}
+
+nav a
+{text-decoration: underline;
+color: white;}
+
+
+nav a:hover
+{background-color: darkslateblue;}
+
+nav li
+{list-style-type: none;}
+
+main
+{grid-column: 2/3;
+padding-left: 1rem;}
+
+footer
+{text-align: center;
+color: white; 
+background-color: black;}
